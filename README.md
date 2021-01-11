@@ -1,2 +1,2 @@
 # Python-libraries..
-Numpy and Pandas
+ Basic of Numpy and Pandas
